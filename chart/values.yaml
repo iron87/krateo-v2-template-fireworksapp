@@ -1,6 +1,6 @@
 # @param {object} argocd ArgoCD parameters section
 argocd:
-  # @param {string} namespace Namespace where ArgoCD has been installed
+  # @param {string} namespace Namespace where ArgoCD has been installed -
   namespace: krateo-system
   # @param {object} application ArgoCD application configuration section
   application:
